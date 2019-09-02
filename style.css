@@ -1,0 +1,27 @@
+body{
+	text-align:center;
+	background: url("http://www.ballastmedia.com/wp-content/uploads/OrnamentBorders_Blue1.jpg") black;
+	color: white;
+	font: helvetica;
+	font-weight: 800;
+	background-position: center;
+
+}
+ img {
+ 	width: 300px;
+ 	border-radius: 50%;
+ 	
+}
+  p {
+	font-size:22px;
+ }
+
+ input {
+ 	border: 0;
+ 	padding: 10px;
+ 	font-size: 18px;
+ }
+ input[type="submit"]{
+ 	background: red;
+ 	color: white;
+ }
